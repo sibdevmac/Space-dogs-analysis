@@ -119,6 +119,6 @@ This project highlights an often forgotten part of space exploration history —
 
 ---
 
-# Conclusion
+# Author
 Sibankar Saha
 
